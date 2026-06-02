@@ -1,0 +1,9 @@
+{
+  "name": "Control de Cartera - Inversiones Inteligentes",
+  "description": "Una aplicación integral para gestionar carteras de activos con análisis de IA Gemini 3, seguimiento de dividendos y alertas en tiempo real.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
